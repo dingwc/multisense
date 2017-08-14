@@ -1,0 +1,37 @@
+
+Huang, Socher, Manning, Ng
+Improving Word Representations via Global Contextand Multiple Word Prototypes
+(Stanford embeddings and SCWS raw test file)
+http://www.socher.org/index.php/Main/ImprovingWordRepresentationsViaGlobalContextAndMultipleWordPrototypes
+
+Neelakantan, Jeevan, Passos and McCallum. 
+Efficient non-parametric estimation of multiple embeddings per word in vector space. 
+(Amherst embeddings)
+https://people.cs.umass.edu/~arvind/emnlp2014wordvectors/
+
+Xinxiong Chen, Zhiyuan Liu, and Maosong Sun.
+A unified model for word sense representation and disambiguation.
+(Chen embeddings)
+
+Rob Koeling, Diana McCarthy, and John Carroll.
+Domain-specific sense distributions and predominant sense acquisition.
+(WSD-C1)
+link: http://sivareddy.in/SemEval2010/
+
+Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli.
+Word Sense Disambiguation: a Unified Evaluation Framework and Empirical Comparison
+(WSD-C2)
+http://lcl.uniroma1.it/wsdeval/
+
+R1, R2, R3 refers to princeton_enwiki_test1_m10, princeton_enwiki_test2_m10, and wordnet_enwiki_questions_relevance_withoutword (in that order).
+
+R1,R2 refer to
+Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, and Andrej Risteski.  
+Linear algebraic structure of word senses, with applications to polysemy.
+(Princeton datasets)
+
+
+
+WordNet
+https://wordnet.princeton.edu/
+
